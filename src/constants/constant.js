@@ -231,7 +231,7 @@ export const projects = [
     image: passwordLogo,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/skazhar786/password-generator",
-    webapp: "",
+    webapp: "https://password-generator-jvwmsce53-azhar17.vercel.app/",
   },
 
 ];
