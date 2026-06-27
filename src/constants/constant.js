@@ -161,7 +161,7 @@ export const projects = [
     image: recipeLogo,
     tags: ["HTML", "CSS", "JavaScript", "Recipe API"],
     github: "https://github.com/skazhar786/Recipe-App",
-    webapp: "",
+    webapp: "https://recipe-app-sepia-nine.vercel.app/",
   },
   {
     id: 1,
@@ -223,7 +223,7 @@ export const projects = [
     image: notesLogo,
     tags: ["HTML", "CSS", "JavaScript", "Local Storage"],
     github: "https://github.com/skazhar786/notes-app",
-    webapp: "",
+    webapp: "https://notes-app-nine-theta-20.vercel.app/",
   },
   {
     id: 7,
