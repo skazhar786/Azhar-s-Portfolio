@@ -153,18 +153,8 @@ export const education = [
 ];
 
 export const projects = [
-  {
+    {
     id: 0,
-    title: "Weather App",
-    description:
-      "A responsive weather application that provides real-time weather information using the OpenWeather API. Users can search for any city to view temperature, humidity, wind speed, and weather conditions through a clean and user-friendly interface.",
-    image: weatherLogo,
-    tags: ["HTML", "CSS", "JavaScript", "OpenWeather API"],
-    github: "https://github.com/skazhar786/weather-app",
-    webapp: "",
-  },
-  {
-    id: 1,
     title: "Recipe Finder App",
     description:
       "A dynamic recipe search application that allows users to discover recipes from an external API. Users can search for meals, explore ingredients, and view detailed cooking instructions through an interactive interface.",
@@ -174,15 +164,27 @@ export const projects = [
     webapp: "",
   },
   {
-    id: 2,
+    id: 1,
     title: "Movie Detail App",
     description:
       "A movie search application that fetches detailed movie information from the OMDb API. Users can search for movies and instantly view ratings, release dates, genres, posters, and plot summaries in a responsive interface.",
     image: movieLogo,
     tags: ["HTML", "CSS", "JavaScript", "OMDb API"],
     github: "https://github.com/skazhar786/movie-app",
-    webapp: "",
+    webapp: "https://movie-app-zeta-beryl-43.vercel.app/",
   },
+  {
+    id: 2,
+    title: "Weather App",
+    description:
+      "A responsive weather application that provides real-time weather information using the OpenWeather API. Users can search for any city to view temperature, humidity, wind speed, and weather conditions through a clean and user-friendly interface.",
+    image: weatherLogo,
+    tags: ["HTML", "CSS", "JavaScript", "OpenWeather API"],
+    github: "https://github.com/skazhar786/weather-app",
+    webapp: "https://weather-app-rouge-mu-93.vercel.app/",
+  },
+
+
   {
     id: 3,
     title: "Quiz App",
@@ -191,7 +193,7 @@ export const projects = [
     image: quizLogo,
     tags: ["HTML", "CSS", "JavaScript"],
     github: "https://github.com/skazhar786/quiz-app",
-    webapp: "",
+    webapp: "https://quiz-app-one-ivory-35.vercel.app/",
   },
   {
     id: 4,
@@ -201,7 +203,7 @@ export const projects = [
     image: textVoiceLogo,
     tags: ["HTML", "CSS", "JavaScript", "Web Speech API"],
     github: "https://github.com/skazhar786/text-to-voice-converter",
-    webapp: "",
+    webapp: "https://text-to-voice-converter-six.vercel.app/",
   },
   {
     id: 5,
@@ -211,7 +213,7 @@ export const projects = [
     image: todoLogo,
     tags: ["HTML", "CSS", "JavaScript", "Local Storage"],
     github: "https://github.com/skazhar786/todo-app",
-    webapp: "",
+    webapp: "https://todo-ma6e3yl9u-azhar17.vercel.app/",
   },
   {
     id: 6,
